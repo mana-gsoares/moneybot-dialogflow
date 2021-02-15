@@ -1,0 +1,50 @@
+{
+  "id": "11deb4c5-fb9a-4f19-b5d4-b2d019ac7409",
+  "name": "01 - O que é empréstimo consignado?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [
+        {
+          "name": "01-Oqueemprstimoconsignado-followup",
+          "lifespan": 2
+        }
+      ],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "É uma modalidade de empréstimo, conhecida popularmente como empréstimo com desconto em folha, em que a prestação é descontada diretamente do salário, da aposentadoria ou da pensão pela fonte pagadora (entidade consignante)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Essas informações ajudaram você a sanar sua dúvida?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
