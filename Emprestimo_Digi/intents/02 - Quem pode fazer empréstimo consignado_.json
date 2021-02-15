@@ -1,0 +1,45 @@
+{
+  "id": "85bc8967-da3e-4dab-a6bb-6c431e00de13",
+  "name": "02 - Quem pode fazer empréstimo consignado?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Quem pode solicitar o empréstimo consignado são: aposentados ou pensionistas do INSS, servidores públicos e profissionais de empresas privadas (desde que elas sejam conveniadas com a instituição que fará o empréstimo)."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Essas informações ajudaram você a sanar sua dúvida?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

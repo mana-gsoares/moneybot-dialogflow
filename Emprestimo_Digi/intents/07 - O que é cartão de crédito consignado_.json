@@ -1,0 +1,55 @@
+{
+  "id": "13c4e005-960c-4258-85b5-b7c6df9eab70",
+  "name": "07 - O que é cartão de crédito consignado?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "O cartão de crédito consignado funciona como um cartão de crédito comum e é utilizado para o pagamento de produtos e serviços no comércio."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "A diferença é que, no cartão de crédito consignado, o valor da fatura pode ser descontado, total ou parcialmente, automaticamente na sua folha de pagamento."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Essas informações ajudaram você a sanar sua dúvida?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

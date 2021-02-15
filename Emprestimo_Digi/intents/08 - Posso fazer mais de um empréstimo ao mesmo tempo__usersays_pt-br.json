@@ -1,0 +1,73 @@
+[
+  {
+    "id": "420b3547-0dbd-4fd3-8300-d2f14cc35523",
+    "data": [
+      {
+        "text": "tem como fazer mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "um emprestimo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4270e8be-84df-4532-8b2e-04910df28bc7",
+    "data": [
+      {
+        "text": "consigo fazer mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "um emprestimo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "00354b00-808a-45e4-bd1a-3910db898d83",
+    "data": [
+      {
+        "text": "da pra fazer mais de ",
+        "userDefined": false
+      },
+      {
+        "text": "um emprestimo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "5973c321-786f-4fc5-857a-dd4707c04361",
+    "data": [
+      {
+        "text": "Posso fazer mais de um empréstimo ao mesmo tempo?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

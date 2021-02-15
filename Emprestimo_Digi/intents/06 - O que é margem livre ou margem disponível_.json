@@ -1,0 +1,55 @@
+{
+  "id": "729708a9-425b-4f70-bb07-16a13b97663f",
+  "name": "06 - O que é margem livre ou margem disponível?",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Margem livre ou disponível é o valor da margem consignável que não está comprometido com o pagamento de parcelas de empréstimos."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Assim, caso sua margem consignável seja de R$600,00, mas o valor das prestações atuais seja de R$450,00, ainda há R$150,00 reais que podem ser utilizados para o pagamento de outro empréstimo consignado."
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Essas informações ajudaram você a sanar sua dúvida?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

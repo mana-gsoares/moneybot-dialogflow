@@ -1,0 +1,41 @@
+[
+  {
+    "id": "4bd5593a-727b-4d1c-804a-be63d7c19290",
+    "data": [
+      {
+        "text": "qual diferença entre margem livre e margem disponivel?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ac8caede-b3a2-412a-b21a-6774279aa3e9",
+    "data": [
+      {
+        "text": "margem livre ou margem disponível?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "d8197ce2-fc91-407b-ad9e-c238adf89779",
+    "data": [
+      {
+        "text": "O que é margem livre ou margem disponível?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

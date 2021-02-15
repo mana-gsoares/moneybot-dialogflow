@@ -1,0 +1,182 @@
+[
+  {
+    "id": "87a727f5-71af-43ab-bcbe-97613d563766",
+    "data": [
+      {
+        "text": "Ow",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3d6394d6-2732-4fb6-8dc2-1434f55539c5",
+    "data": [
+      {
+        "text": "Ou",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "78049b64-0f17-4a02-bba2-1c6083f1cdb6",
+    "data": [
+      {
+        "text": "Hi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "255ac2d4-e869-4a3b-a8f8-fa02f7aab8b4",
+    "data": [
+      {
+        "text": "Ola",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "17222d0b-97b7-43a0-a81f-f4636c76b671",
+    "data": [
+      {
+        "text": "Oie",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f804abc2-1aad-4ef6-86c2-9cc2d346fc8b",
+    "data": [
+      {
+        "text": "Como vai?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "7eff0b09-a2ae-438e-9d2d-a9fb6ba5876d",
+    "data": [
+      {
+        "text": "Oii",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "6c8987a6-5865-4b38-9201-79eafade1531",
+    "data": [
+      {
+        "text": "Eaee",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b636ab37-1e27-4a42-a0f3-2dfaa200a88c",
+    "data": [
+      {
+        "text": "Alguém ",
+        "userDefined": false
+      },
+      {
+        "text": "ai",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "22326ff1-5e96-425c-8c67-d58386f42847",
+    "data": [
+      {
+        "text": "Tudo ",
+        "userDefined": false
+      },
+      {
+        "text": "bem",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "4119c1b3-257f-427c-967f-181c7fc32863",
+    "data": [
+      {
+        "text": "olá",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "8a6a8837-acca-4b48-ad24-9e08c7bea545",
+    "data": [
+      {
+        "text": "Oi",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

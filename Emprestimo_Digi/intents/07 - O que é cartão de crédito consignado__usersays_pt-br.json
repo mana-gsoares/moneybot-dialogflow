@@ -1,0 +1,41 @@
+[
+  {
+    "id": "ad0a9207-4357-425f-be32-7f17e78a28be",
+    "data": [
+      {
+        "text": "como é o cartão de crédito consignado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "e2ff52dc-2fac-44cc-8cf5-95955508413c",
+    "data": [
+      {
+        "text": "como funciona o cartão de crédito consignado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "360b59bc-718b-4c66-b1e5-8f0ba888c3a2",
+    "data": [
+      {
+        "text": "O que é cartão de crédito consignado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

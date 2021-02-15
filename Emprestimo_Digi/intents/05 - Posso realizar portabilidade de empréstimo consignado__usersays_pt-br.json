@@ -1,0 +1,77 @@
+[
+  {
+    "id": "35d09640-04ab-4c68-b79b-63f8d149b9a6",
+    "data": [
+      {
+        "text": "dá pra fazer portabilidade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "88c34413-6708-41ee-a1a6-f11453b43bb3",
+    "data": [
+      {
+        "text": "posso fazer portabilidade",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "f3b234c9-9880-4c28-beb3-3d1ed0b24efd",
+    "data": [
+      {
+        "text": "É possivel ",
+        "userDefined": false
+      },
+      {
+        "text": "fazer a",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " portabilidades de ",
+        "userDefined": false
+      },
+      {
+        "text": "emprestimo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "3aea2de2-79a8-42c4-8443-d0ee4f050ac7",
+    "data": [
+      {
+        "text": "Posso realizar portabilidade de ",
+        "userDefined": false
+      },
+      {
+        "text": "empréstimo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " consignado?.",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

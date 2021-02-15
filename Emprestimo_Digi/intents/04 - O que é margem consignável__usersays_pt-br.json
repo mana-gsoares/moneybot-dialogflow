@@ -1,0 +1,28 @@
+[
+  {
+    "id": "7ed6db76-6a08-45d6-a810-0fe32ef986cc",
+    "data": [
+      {
+        "text": "margem consignável",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b73a3213-0aac-454d-a833-0304d862fb6d",
+    "data": [
+      {
+        "text": "O que é margem consignável?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

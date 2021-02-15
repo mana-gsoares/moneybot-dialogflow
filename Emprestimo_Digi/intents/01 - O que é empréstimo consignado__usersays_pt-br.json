@@ -1,0 +1,77 @@
+[
+  {
+    "id": "358addd0-586c-40a4-919c-c4eca8276ae6",
+    "data": [
+      {
+        "text": "emprestimo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " consignado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "cfd32c82-3fc0-402d-b613-677ff97851ac",
+    "data": [
+      {
+        "text": "O que é ",
+        "userDefined": false
+      },
+      {
+        "text": "emprestimo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " consignado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "b1733420-6881-44a5-a5c6-40630b8a8bbc",
+    "data": [
+      {
+        "text": "como funciona ",
+        "userDefined": false
+      },
+      {
+        "text": "o emprestimo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": "?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "9b6c4272-73b3-4d61-874e-465e2b9ea86e",
+    "data": [
+      {
+        "text": "O que é empréstimo consignado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

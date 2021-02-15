@@ -1,0 +1,36 @@
+{
+  "id": "07cecf07-8ca8-4c26-bd39-b171c53618e0",
+  "name": "Default Fallback Intent",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "input.unknown",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Desculpe, não compreendi sua pergunta. \nPor favor, poderia escrever a frase com sua dúvida para eu tentar ajudá-lo de outra forma?",
+            "Ops, estou em treinamento não compreendi o que disse.\nPor gentileza, poderia digitar sua pergunta de uma outra forma para que eu consiga te ajudar?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": true,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

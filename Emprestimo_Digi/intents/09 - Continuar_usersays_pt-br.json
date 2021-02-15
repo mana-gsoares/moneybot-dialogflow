@@ -1,0 +1,68 @@
+[
+  {
+    "id": "52c86199-a5af-4d62-a006-60e301097b82",
+    "data": [
+      {
+        "text": "Proximo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "c374d8aa-4b8a-4e05-b82b-8998fe39e41d",
+    "data": [
+      {
+        "text": "prosseguir",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "1825039c-10c1-4f18-9da2-10d91b72ee43",
+    "data": [
+      {
+        "text": "vou continuar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a5c180d5-2fcb-4d48-8f2d-f42b4bfbee0a",
+    "data": [
+      {
+        "text": "quero continuar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dec1ba58-4bee-4829-baab-896ef2d7cc78",
+    "data": [
+      {
+        "text": "Continuar",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

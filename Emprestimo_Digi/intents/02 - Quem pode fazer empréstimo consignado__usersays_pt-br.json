@@ -1,0 +1,63 @@
+[
+  {
+    "id": "197a0969-2308-49bf-ada5-330f8f91ba4d",
+    "data": [
+      {
+        "text": "gostaria de saber como faço um emprestimo",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "ff722531-fdd5-4eb4-af82-5b9bd9cb6c04",
+    "data": [
+      {
+        "text": "gostaria de saber quem pode fazer ",
+        "userDefined": false
+      },
+      {
+        "text": "emprestimo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " consignado",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 1,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "dfbd0463-86f1-42a8-b554-542b20f5bb1c",
+    "data": [
+      {
+        "text": "quem pode fazer",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "aca420ec-3f0c-4ae1-ad3d-f6fcfb16a9e4",
+    "data": [
+      {
+        "text": "Quem pode fazer empréstimo consignado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]

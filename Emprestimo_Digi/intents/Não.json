@@ -1,0 +1,46 @@
+{
+  "id": "988d8857-52aa-47f5-8bae-7f6293880bde",
+  "name": "Não",
+  "auto": true,
+  "contexts": [],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Poxa que pena, estou estudando cada dia mais, para melhor te atender.\nCaso queira tirar mais dúvidas, digite \"Continuar\"",
+            "Peço desculpas, vou me esforçar para conseguir te ajudar nas próximas vezes.\nSe tiver mais dúvidas, digite \"Continuar\""
+          ],
+          "condition": ""
+        },
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "pt-br",
+          "speech": [
+            "Caso não, encerro por aqui, tenha um excelente dia!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,63 @@
+[
+  {
+    "id": "010232bc-c6ae-4bb4-aaf0-bb6e2ff193ad",
+    "data": [
+      {
+        "text": "que taxas ",
+        "userDefined": false
+      },
+      {
+        "text": "o emprestimo",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      },
+      {
+        "text": " possui",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "a391584a-5234-4b4c-bba2-30a4bfe15b6f",
+    "data": [
+      {
+        "text": "Quais são as taxas",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "313b908f-336e-4743-a1c8-1722f88e6e38",
+    "data": [
+      {
+        "text": "Qual é a taxa de juros",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  },
+  {
+    "id": "45c8f4d7-4e1f-4138-907d-04feca676f8a",
+    "data": [
+      {
+        "text": "Qual é a taxa de juros do crédito consignado?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "pt-br",
+    "updated": 0
+  }
+]
